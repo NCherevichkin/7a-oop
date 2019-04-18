@@ -1,0 +1,7 @@
+Container contents 2 elements.
+0: It is Box: x = 2, y = 3, z = 4
+1: It is Sphere: r = 3
+Multimethod.
+Share and Box
+It is Box: x = 2, y = 3, z = 4
+It is Sphere: r = 3
